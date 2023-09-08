@@ -1,4 +1,4 @@
- [![MasterHead](https://i.imgur.com/ahjHe3h.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Ceren Bayrak</h1>
 <h3 align="center">Junior frontend developer from Turkey</h3>
