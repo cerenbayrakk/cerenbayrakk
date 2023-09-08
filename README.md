@@ -1,4 +1,5 @@
-https://cdn.pixabay.com/photo/2016/03/27/18/54/technology-1283624_1280.jpg
+ [![MasterHead](https://i.imgur.com/ahjHe3h.jpg)
+
 <h1 align="center">Hi 👋, I'm Ceren Bayrak</h1>
 <h3 align="center">Junior frontend developer from Turkey</h3>
 
